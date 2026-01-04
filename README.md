@@ -92,7 +92,8 @@ https://github.com/BasicHooman/website-ftr
 ├── Paladin Demos/
 │ ├── annotate_clean.py
 │ ├── annotate_recovery.py
-│ └── simulation_with_paladin_error_match.py
+│ ├── simulation_with_paladin_error_match.py
+│ └── toolscan_taxonomy_map.json
 ├── README.md
 └── LICENSE
 ```
